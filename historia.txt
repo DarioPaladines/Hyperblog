@@ -1,6 +1,6 @@
 Esta es la nueva historia de dario paladines
 
-Empezó aprender programación hace tres meses y va empezando
+Empezó aprender programación hace dos meses y va empezando
 
 ahora esta haciendo el curso de git y github
 
@@ -11,9 +11,3 @@ Espera pronto entrar a la industria de la tecnología
 pretende ganar dinero con sus habilidades
 
 ademas de eso es ingeniero automotriz
-
-hoy sigue y sigue estudiando
-
-vive en la ciudad de cuenca 
-
-tiene 25 años proximo a cumplir 26
