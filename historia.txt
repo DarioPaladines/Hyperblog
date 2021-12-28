@@ -1,2 +1,5 @@
-Hoy hablaremos de la historia de dario paladines y su vida
-Mañana nos enfocaremos en su vida laboral
+Esta es la nueva historia de dario paladines
+
+Empezó aprender programación hace dos meses y va empezando
+
+ahora esta haciendo el curso de git y github
