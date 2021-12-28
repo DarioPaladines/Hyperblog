@@ -1,6 +1,6 @@
 Esta es la nueva historia de dario paladines
 
-Empezó aprender programación hace dos meses y va empezando
+Empezó aprender programación hace tres meses y va empezando
 
 ahora esta haciendo el curso de git y github
 
