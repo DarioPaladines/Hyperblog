@@ -1,11 +1,7 @@
 body{
     color: darkviolet;
-<<<<<<< HEAD
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-=======
-    font-family: Arial, Helvetica, sans-serif;
->>>>>>> cabecera
     font-size: 10px;
     margin: 0;
     padding: 0;
@@ -14,12 +10,7 @@ body{
 #container{
     width: 70%;
     text-align: center;
-<<<<<<< HEAD
     border: 1px solid rgb(68, 0, 255);
-=======
-    padding: 1em;
-    border: 1px solid rgb(167, 0, 0);
->>>>>>> cabecera
     margin: 0 auto;
 }
 
