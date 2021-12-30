@@ -40,3 +40,7 @@ body{
     width: 20px;
     vertical-align: middle;
 }
+#footer{
+    background: rgb(110, 110, 110);
+    color: white;
+}
