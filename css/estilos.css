@@ -36,7 +36,13 @@ body{
     padding: 0 0 0 3em;   
 }
 
-#logo{
+#cabecera #logo{
     width: 20px;
     vertical-align: middle;
+}
+ 
+#footer{
+    background: rgb(5, 0, 46);
+    color: white;
+    text-align: center;
 }
