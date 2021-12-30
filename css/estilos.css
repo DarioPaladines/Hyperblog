@@ -41,6 +41,7 @@ body{
     vertical-align: middle;
 }
 #footer{
-    background: rgb(110, 110, 110);
+    background: rgb(146, 146, 146);
     color: white;
+    text-align: center;
 }
