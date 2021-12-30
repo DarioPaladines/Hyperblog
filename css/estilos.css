@@ -41,3 +41,11 @@ body{
     vertical-align: middle;
 }
 
+
+
+
+#footer{
+    background: rgb(255, 58, 58);
+    color: white;
+    text-align: center;
+}
