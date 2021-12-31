@@ -44,8 +44,8 @@ body{
 
 
 
-#footer{
-    background: rgb(158, 158, 158);
+.footer{
+    background: rgb(143, 143, 143);
     color: white;
     text-align: center;
 }
