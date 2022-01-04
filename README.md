@@ -10,4 +10,4 @@
 
 En los próximos meses estaremos subiendo a este repositorio personal cada uno de los proyectos personales que demuestren el trabajo creado por mi persona.
 
-**Mi blog:**[Autodigial](https://www.facebook.com/AutoDigital-108078570980305:// "Autodigial")
+**Mi blog:** [Autodigital](https://www.facebook.com/AutoDigital-108078570980305 "Autodigital")
