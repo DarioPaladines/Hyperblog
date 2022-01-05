@@ -8,6 +8,7 @@
 *  Usar la red social para desarrolladores como GitHub para almacenar los proyectos personales
 *  Como usar un pull request, o un fork para proyectos colaborativos
 * Creado por dario para el mundo
+* Aparte de realizar practicas
 
 En los próximos meses estaremos subiendo a este repositorio personal cada uno de los proyectos personales que demuestren el trabajo creado por mi persona.
 
